@@ -1,4 +1,4 @@
-![lineage-downloader](https://imgur.com/cBL0JDN)
+![lineage-downloader](https://i.imgur.com/cBL0JDN.png)
 
 ---
 
